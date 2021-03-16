@@ -9,9 +9,9 @@ const myArray = ["London", "Swansea", "Cardiff", 2, false, 5, 7]; //flat array
 
 
 // {
-    // let arr_1 = ["Konya", "Canakkale"]
-    // const result = myArray.concat(arr_1)
-    // console.log(myArray);
+/// let arr_1 = ["Konya", "Canakkale"]
+// const result = myArray.concat(arr_1)
+// console.log(myArray);
 // }
 
 // {
