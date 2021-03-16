@@ -17,6 +17,6 @@ const myArray = ["London", "Swansea", "Cardiff", 2, false, 5, 7]; //flat array
 // {
 //     var desk = myArray.push("Van");
 //     console.log(desk);
-//     //console.log(myArray);
+//     console.log(myArray);
 // }
 
