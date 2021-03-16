@@ -28,5 +28,5 @@
 // myFunction_2("Erdem");
 
 //arrow Function () => {}
-const myFunction_3 = p1 => p1 * p1
-console.log(myFunction_3(6));
+// const myFunction_3 = p1 => p1 * p1
+// console.log(myFunction_3(6));
